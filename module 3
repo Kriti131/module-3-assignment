@@ -1,10 +1,15 @@
 <!DOCTYPE html>
+<!-- saved from url=(0113)https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Module 3</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="./module 3_files/bootstrap.min.css">
+  <link rel="stylesheet" href="./Module 3_files/bootstrap.min.css">
+  <script src="./Module 3_files/jquery.min.js.download"></script>
+  <script src="./Module 3_files/bootstrap.min.js.download"></script>
 
-<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" type="text/css" href="./module 3_files/style.css"></head>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" type="text/css" href="./Module 3_files/style.css"></head>
 
 
 
